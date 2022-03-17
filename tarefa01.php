@@ -1,7 +1,7 @@
 <?php 
 
- <$nome = "Allison">;
-     <echo = $nome>;
+ $nome = "Allison";
+     echo = $nome;
 
-<$idade = "18">;
-     <echo $idade>;
+$idade = "18";
+     echo $idade;
